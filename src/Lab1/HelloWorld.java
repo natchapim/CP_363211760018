@@ -6,7 +6,7 @@ public class HelloWorld {
         System.out.println("Hello World !!!");
         System.out.println("NATCHAPIM");
         System.out.println("MILD");
-        System.out.println("MOOK");
+        System.out.println("tt");
 
     }
 
